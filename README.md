@@ -1,2 +1,2 @@
 # Portfolio
-Public portfolio of software development projects
+Public portfolio of software development projects by Cassidy Johsnon
